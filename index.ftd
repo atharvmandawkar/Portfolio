@@ -18,8 +18,8 @@
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
-logo: $assets.files.images.photo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logo: $assets.files.images.logo.svg
+logoURL: /Portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
