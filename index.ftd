@@ -18,13 +18,13 @@
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
-logo: $assets.files.images.logo.svg
+logo: $assets.files.images.photo.svg
 logoURL: /YOUR_REPOSITORY_NAME
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
+header-item1-link: /Atharv Mandawkar
 header-item2-link: /YOUR_REPOSITORY_NAME/about
 header-item3-link: /YOUR_REPOSITORY_NAME/blogs
 header-item4-link: /YOUR_REPOSITORY_NAME/projects
